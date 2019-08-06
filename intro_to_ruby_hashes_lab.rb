@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  beverages{"juice"=>"apple","soda"=>"coke"}
+  beverages{:juice"=>"apple", :soda =>"coke"}
 end
 
 def pioneer
