@@ -27,5 +27,5 @@ def update_counting_hash(hash, key)
   if "#{hash}"["pink"]
     "#{hash}"["pink"] += 1
   else
-    "#{hash}"["pnk"] = 1 
+    "#{hash}"["pnk"] = 1
   end
