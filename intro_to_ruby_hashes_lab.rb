@@ -1,9 +1,9 @@
 def new_hash
-  # return an empty hash
+  has.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  beverages { juice:"apple", soda:"coke"}
 end
 
 def pioneer
